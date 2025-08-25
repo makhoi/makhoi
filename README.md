@@ -24,5 +24,5 @@
 
 <br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rokawoo&layout=compact&theme=vision-friendly-dark&hide=jupyter%20notebook" alt="Most Used Languages" title="Lang Stats"/>
-<img src="https://komarev.com/ghpvc/?username=Rokawoo&style=pastic&color=6568cc" alt="View Counter" draggable="false" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=makhoi&layout=compact&theme=vision-friendly-dark&hide=jupyter%20notebook" alt="Most Used Languages" title="Lang Stats"/>
+<img src="https://komarev.com/ghpvc/?username=makhoi&style=pastic&color=6568cc" alt="View Counter" draggable="false" />
