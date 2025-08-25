@@ -1,4 +1,4 @@
-<img src ="/Users/khoima/Desktop/portfolio/images.jpeg">
+<img src ="images.jpeg">
 <h1>
   $\texttt{Hello World, I'm }
    \textcolor{#FF0000}{\texttt{K}}
