@@ -18,7 +18,7 @@
 
 ### Reach me
 - Email: `khoihma@gmail.com`
-- LinkedIn: [https://linkedin.com/in/your-handle](https://www.linkedin.com/in/khoima/)
+- LinkedIn: [Khoi Ma](https://www.linkedin.com/in/khoima/)
 
 ### Fun fact
 - I enjoy refactoring messy code more than writing new code.
