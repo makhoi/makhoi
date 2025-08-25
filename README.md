@@ -21,11 +21,11 @@
 - Looking to collaborate on Machine Learning, Full-stack, Computer Vision projects, etc.
 - Fuel: iced matcha latte
 
-### Reach me
+## Reach me
 - Email: `khoihma@gmail.com`
 - LinkedIn: [Khoi Ma](https://www.linkedin.com/in/khoima/)
 
-### Fun fact
+## Fun fact
 - I enjoy refactoring messy code more than writing new code.
 - Dark theme everything.
 - I play violin or hanging out with friends in my free time.
