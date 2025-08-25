@@ -2,9 +2,9 @@
 <h1>
   $\texttt{Hi humans, I'm }
    \textcolor{#FF0000}{\texttt{K}}
-   \textcolor{#FFFFFF}{\texttt{h}}
+   \textcolor{#00FFFF}{\texttt{h}}
    \textcolor{#FF0000}{\texttt{o}}
-   \textcolor{#FFFFFF}{\texttt{i}}$
+   \textcolor{#00FFFF}{\texttt{i}}$
 </h1>
 
 > [!CAUTION]
