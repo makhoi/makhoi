@@ -1,33 +1,28 @@
-<h1 align="center">Hi, I'm Khoi Ma 👋</h1>
+<h1>
+  Hello World, I'm 
+  <span style="color:red">K</span>
+  <span style="color:white">h</span>
+  <span style="color:red">o</span>
+  <span style="color:white">i</span>
+  !
+</h1>
+> [!CAUTION]
+> ⭐ This user is super cool!
 
-<p align="center">
-  <a href="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME">
-    <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true" />
-  </a>
-  <a href="https://streak-stats.demolab.com?user=YOUR_USERNAME">
-    <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME" />
-  </a>
-</p>
 
-<p align="center">
-  <a href="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME">
-    <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&row=1&column=6" />
-  </a>
-</p>
+<div>
+  <img src="https://raw.githubusercontent.com/Rokawoo/Rokawoo/main/Logos/PYTHON.gif" alt="Python" title="Python" width="100" />
+  <img src="https://raw.githubusercontent.com/Rokawoo/Rokawoo/main/Logos/HTML5.gif" alt="HTML5" title="HTML5" width="100" />
+  <img src="https://raw.githubusercontent.com/Rokawoo/Rokawoo/main/Logos/CSS3.gif" alt="CSS" title="CSS" width="100" />
+  <img src="https://raw.githubusercontent.com/Rokawoo/Rokawoo/main/Logos/JS.gif" alt="JS" title="JS" width="100" />
+  <img src="https://raw.githubusercontent.com/Rokawoo/Rokawoo/main/Logos/NODE.gif" alt="Node" title="Node" width="100" />
+  <img src="https://raw.githubusercontent.com/Rokawoo/Rokawoo/main/Logos/REACT.gif" alt="React" title="React" width="100" />
+  <img src="https://raw.githubusercontent.com/Rokawoo/Rokawoo/main/Logos/VSCODE.gif" alt="VS Code" title="VS Code" width="100" />
+  <img src="https://raw.githubusercontent.com/Rokawoo/Rokawoo/main/Logos/JETBRAINS.gif" alt="Jet Brains" title="Jet Brains" width="100" />
+  <img src="https://raw.githubusercontent.com/Rokawoo/Rokawoo/main/Logos/GIT.gif" alt="GIT" title="GIT" width="100"/>
+</div>
 
-### Tech I use
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="32"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" height="32"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" height="32"/>
-  <!-- add more -->
-</p>
+<br>
 
-### Featured projects
-- 🚗 **Cartograph Automata** — vision-driven AMR nav
-- 🐚 **Dragon Shell** — C remote Unix shell
-- 🤖 **Student Verification** — GPT-based ID parser
-
-<p align="right">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=flat-square" />
-</p>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rokawoo&layout=compact&theme=vision-friendly-dark&hide=jupyter%20notebook" alt="Most Used Languages" title="Lang Stats"/>
+<img src="https://komarev.com/ghpvc/?username=Rokawoo&style=pastic&color=6568cc" alt="View Counter" draggable="false" />
