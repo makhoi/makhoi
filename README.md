@@ -17,7 +17,8 @@
 > ⭐ Awesomeness overload!
 
 ## Introduce myself
-- Senior CS @ Drexel, ex-Machine Learning Engineer @ MoMo, ex-Data Analyst @ CES
+- Senior Year Computer Science student at Drexel University with a focus on Software Engineering and Artificial Intelligence(AI)/Machine Learning (ML)
+- Interned at MoMo (M_services) worked on full stack development and ML engineering roles. Interned at Customized Energy Solutions (CES) worked on Data and Operations Analysts roles.
 - Looking to collaborate on Machine Learning, Full-stack, Computer Vision projects, etc.
 - Fuel: iced matcha latte
 
@@ -26,7 +27,7 @@
 - LinkedIn: [Khoi Ma](https://www.linkedin.com/in/khoima/)
 
 ## Fun fact
-- I enjoy refactoring messy code more than writing new code.
+- Python is my favorite language, at least for now \:3
 - Dark theme everything.
 - I play violin or hanging out with friends in my free time.
 
