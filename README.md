@@ -1,7 +1,7 @@
 <img src ="todorokishoto.gif">
 
 <h1>
-  $\texttt{Greetings, Earthling! I am}
+  $\texttt{Greetings, Earthling! I am }
    \textcolor{#FF0000}{\texttt{K}}
    \textcolor{#006400}{\texttt{h}}
    \textcolor{#FF0000}{\texttt{o}}
@@ -15,8 +15,7 @@
 > ⭐ Awesomeness overload!
 
 ## Introduce myself
-
-- Senior CS @ Drexel, ex-Machinea Learning Engineer @ MoMo, ex-Data Analyst @ CES
+- Senior CS @ Drexel, ex-Machine Learning Engineer @ MoMo, ex-Data Analyst @ CES
 - Looking to collaborate on Machine Learning, Full-stack, Computer Vision projects, etc.
 - Fuel: iced matcha latte
 
