@@ -13,7 +13,7 @@
 ## Introduce myself
 
 - Senior CS @ Drexel, ex-Machinea Learning Engineer @ MoMo, ex-Data Analyst @ CES
-- I’m looking to collaborate on ML, Kubernetes, Kafka... any projects.
+- looking to collaborate on Machine Learning, Kubernetes, Kafka, Full-stack, etc
 - Fuel: iced matcha latte
 
 ### Reach me
