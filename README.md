@@ -1,6 +1,6 @@
 <img src ="images.jpeg">
 <h1>
-  $\texttt{Hi minsan ^o^, I'm }
+  $\texttt{Hi minsan \^o^\, I'm }
    \textcolor{#FF0000}{\texttt{K}}
    \textcolor{#FFFFFF}{\texttt{h}}
    \textcolor{#FF0000}{\texttt{o}}
