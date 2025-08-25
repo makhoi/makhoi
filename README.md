@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm YOUR NAME 👋</h1>
+<h1 align="center">Hi, I'm Khoi Ma 👋</h1>
 
 <p align="center">
   <a href="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME">
