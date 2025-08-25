@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="todorokishoto.gif" alt="Shoto Todoroki" width="600" />
+  <img src="todorokishoto.gif" alt="Shoto Todoroki" width="500" />
 </div>
 
 <h1>
