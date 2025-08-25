@@ -1,9 +1,9 @@
 <div align="center">
-  <img src="todorokishoto.gif" alt="Shoto Todoroki" width="200" />
+  <img src="todorokishoto.gif" alt="Shoto Todoroki" width="600" />
 </div>
 
 <h1>
-  $\texttt{Greetings Earthling, I am }
+  $\texttt{Greetings, Earthling! I am }
    \textcolor{#FF0000}{\texttt{K}}
    \textcolor{#006400}{\texttt{h}}
    \textcolor{#FF0000}{\texttt{o}}
