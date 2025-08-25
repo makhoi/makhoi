@@ -1,6 +1,7 @@
 <img src ="todorokishoto.gif">
+
 <h1>
-  $\texttt{This is }
+  $\texttt{Greetings, Earthling! I am}
    \textcolor{#FF0000}{\texttt{K}}
    \textcolor{#006400}{\texttt{h}}
    \textcolor{#FF0000}{\texttt{o}}
