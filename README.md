@@ -9,18 +9,32 @@
 > [!CAUTION]
 > ⭐ This user is super cool!
 
-
 <div>
-  <img src="https://raw.githubusercontent.com/Rokawoo/Rokawoo/main/Logos/PYTHON.gif" alt="Python" title="Python" width="100" />
-  <img src="https://raw.githubusercontent.com/Rokawoo/Rokawoo/main/Logos/HTML5.gif" alt="HTML5" title="HTML5" width="100" />
-  <img src="https://raw.githubusercontent.com/Rokawoo/Rokawoo/main/Logos/CSS3.gif" alt="CSS" title="CSS" width="100" />
-  <img src="https://raw.githubusercontent.com/Rokawoo/Rokawoo/main/Logos/JS.gif" alt="JS" title="JS" width="100" />
-  <img src="https://raw.githubusercontent.com/Rokawoo/Rokawoo/main/Logos/NODE.gif" alt="Node" title="Node" width="100" />
-  <img src="https://raw.githubusercontent.com/Rokawoo/Rokawoo/main/Logos/REACT.gif" alt="React" title="React" width="100" />
-  <img src="https://raw.githubusercontent.com/Rokawoo/Rokawoo/main/Logos/VSCODE.gif" alt="VS Code" title="VS Code" width="100" />
-  <img src="https://raw.githubusercontent.com/Rokawoo/Rokawoo/main/Logos/JETBRAINS.gif" alt="Jet Brains" title="Jet Brains" width="100" />
-  <img src="https://raw.githubusercontent.com/Rokawoo/Rokawoo/main/Logos/GIT.gif" alt="GIT" title="GIT" width="100"/>
+  <!-- Python -->
+  <img src="https://raw.githubusercontent.com/Rokawoo/Rokawoo/main/Logos/PYTHON.gif" 
+       alt="Python" title="Python" width="100" />
+
+  <!-- C -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" 
+       alt="C" title="C" width="100" />
+
+  <!-- HTML -->
+  <img src="https://raw.githubusercontent.com/Rokawoo/Rokawoo/main/Logos/HTML5.gif" 
+       alt="HTML5" title="HTML5" width="100" />
+
+  <!-- C# -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" 
+       alt="C#" title="C#" width="100" />
+
+  <!-- Java -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" 
+       alt="Java" title="Java" width="100" />
+
+  <!-- Shell -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" 
+       alt="Shell" title="Shell" width="100" />
 </div>
+
 
 <br>
 
