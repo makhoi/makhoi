@@ -1,6 +1,6 @@
 <img src ="images.jpeg">
 <h1>
-  $\texttt{Hi humans, I'm }
+  $\texttt{Hi, I'm }
    \textcolor{#FF0000}{\texttt{K}}
    \textcolor{#00FFFF}{\texttt{h}}
    \textcolor{#FF0000}{\texttt{o}}
