@@ -13,7 +13,7 @@
 ## Introduce myself
 
 - Senior CS @ Drexel, ex-Machinea Learning Engineer @ MoMo, ex-Data Analyst @ CES
-- Looking to collaborate on Machine Learning, Full-stack, Computer Vision, etc.
+- Looking to collaborate on Machine Learning, Full-stack, Computer Vision projects, etc.
 - Fuel: iced matcha latte
 
 ### Reach me
