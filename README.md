@@ -8,7 +8,7 @@
 </h1>
 
 > [!CAUTION]
-> ⭐ This user is a weeb!
+> ⭐ Awesomeness overload!
 
 ## Introduce myself
 
