@@ -3,7 +3,7 @@
 </div>
 
 <h1>
-  $\texttt{Greetings, Earthling! I am }
+  $\texttt{Greetings, Earthling! This is }
    \textcolor{#FF0000}{\texttt{K}}
    \textcolor{#006400}{\texttt{h}}
    \textcolor{#FF0000}{\texttt{o}}
