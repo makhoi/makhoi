@@ -1,10 +1,13 @@
 <img src ="images.jpeg">
 <h1>
-  $\texttt{Hello Word, I'm }
+  $\texttt{This is }
    \textcolor{#FF0000}{\texttt{K}}
    \textcolor{#006400}{\texttt{h}}
    \textcolor{#FF0000}{\texttt{o}}
-   \textcolor{#006400}{\texttt{i}}$
+   \textcolor{#006400}{\texttt{i}}
+   \ \  
+   \textcolor{#006400}{\texttt{M}}
+   \textcolor{#FF0000}{\texttt{a}}$
 </h1>
 
 > [!CAUTION]
