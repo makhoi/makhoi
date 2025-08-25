@@ -1,4 +1,6 @@
-<img src ="todorokishoto.gif">
+<div align="center">
+  <img src="todorokishoto.gif" alt="Shoto Todoroki" width="200" />
+</div>
 
 <h1>
   $\texttt{Greetings Earthling, I am }
