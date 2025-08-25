@@ -9,30 +9,30 @@
 > [!CAUTION]
 > ⭐ This user is super cool!
 
-<div style="display: flex; align-items: center; justify-content: center; gap: 10px;">
+<div>
   <!-- Python -->
-  <img src="https://raw.githubusercontent.com/Rokawoo/Rokawoo/main/Logos/PYTHON.gif" 
-       alt="Python" title="Python" width="80" />
+  <img src="https://raw.githubusercontent.com/makhoi/makhoi/main/Logos/PYTHON.gif" 
+       alt="Python" title="Python" width="100" />
 
   <!-- C -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" 
-       alt="C" title="C" width="80" />
+       alt="C" title="C" width="100" />
 
   <!-- HTML -->
-  <img src="https://raw.githubusercontent.com/Rokawoo/Rokawoo/main/Logos/HTML5.gif" 
-       alt="HTML5" title="HTML5" width="80" />
+  <img src="https://raw.githubusercontent.com/makhoi/makhoi/main/Logos/HTML5.gif" 
+       alt="HTML5" title="HTML5" width="100" />
 
   <!-- C# -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" 
-       alt="C#" title="C#" width="80" />
+       alt="C#" title="C#" width="100" />
 
   <!-- Java -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" 
-       alt="Java" title="Java" width="80" />
+       alt="Java" title="Java" width="100" />
 
   <!-- Shell -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" 
-       alt="Shell" title="Shell" width="80" />
+       alt="Shell" title="Shell" width="100" />
 </div>
 
 
