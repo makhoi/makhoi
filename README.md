@@ -20,12 +20,10 @@
 - Email: `khoihma@gmail.com`
 - LinkedIn: [https://linkedin.com/in/your-handle](https://www.linkedin.com/in/khoima/)
 
-<details>
-  <summary>💡 Fun facts</summary>
+### Fun fact
 - I enjoy refactoring messy code more than writing new code.
 - Dark theme everything.
 - I play violin and hanging out in my free time
-</details>
 
 <div>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" title="Python" width="100" />
