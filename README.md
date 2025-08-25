@@ -23,7 +23,7 @@
 ### Fun fact
 - I enjoy refactoring messy code more than writing new code.
 - Dark theme everything.
-- I play violin and hanging out in my free time
+- I play violin or hanging out with friends in my free time.
 
 <div>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" title="Python" width="100" />
