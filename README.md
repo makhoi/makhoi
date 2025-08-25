@@ -17,10 +17,10 @@
 > ⭐ Awesomeness overload!
 
 ## Introduce myself
-- Senior Year Computer Science student at Drexel University with a focus on Software Engineering and Artificial Intelligence(AI)/Machine Learning (ML)
-- Interned at MoMo (M_services) worked on full stack development and ML engineering roles. Interned at Customized Energy Solutions (CES) worked on Data and Operations Analysts roles.
-- Looking to collaborate on Machine Learning, Full-stack, Computer Vision projects, etc.
-- Fuel: iced matcha latte
+- I am a Senior Year Computer Science student at Drexel University with a focus on Software Engineering and Artificial Intelligence(AI)/Machine Learning (ML)
+- I interned at MoMo (M_services) and Customized Energy Solutions (CES), worked on full stack development, ML engineering, and data analysts roles.
+- I am looking to collaborate on Machine Learning, Full-stack, Computer Vision projects, etc.
+- My fuel: iced matcha latte \:>
 
 ## Reach me
 - Email: `khoihma@gmail.com`
