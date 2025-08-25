@@ -1,11 +1,11 @@
 <h1>
-  Hello World, I'm 
-  <span style="color:red">K</span>
-  <span style="color:white">h</span>
-  <span style="color:red">o</span>
-  <span style="color:white">i</span>
-  !
+  $\texttt{Hello World, I'm }
+   \textcolor{#FF0000}{\texttt{K}}
+   \textcolor{#FFFFFF}{\texttt{h}}
+   \textcolor{#FF0000}{\texttt{o}}
+   \textcolor{#FFFFFF}{\texttt{i}}$
 </h1>
+
 > [!CAUTION]
 > ⭐ This user is super cool!
 
