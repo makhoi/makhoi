@@ -13,8 +13,6 @@
    \textcolor{#FF0000}{\texttt{a}}$
 </h1>
 
-> [!CAUTION]
-> ⭐ Awesomeness overload!
 
 ## Introduce myself
 - I am a Senior Year Computer Science student at Drexel University with a focus on Software Engineering and Artificial Intelligence(AI)/Machine Learning (ML)
