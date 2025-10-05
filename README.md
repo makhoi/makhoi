@@ -16,12 +16,13 @@
 
 ## Introduce myself
 - I am a Senior Year Computer Science student at Drexel University with a focus on Software Engineering and Artificial Intelligence(AI)/Machine Learning (ML)
+- Currently I'm working as a contractor for Stealth AI to build an app verifying trading sport cards. I'm also working as a Course Assitant for Software Engineer class at Drexel College of Computing and Informatics.
 - I interned at MoMo (M_services) and Customized Energy Solutions (CES), worked on full stack development, ML engineering, and data analysts roles.
-- I am looking to collaborate on Machine Learning, Full-stack, Computer Vision projects, etc.
-- My fuel: iced matcha latte \:>
+- I am looking to work on Full-stack, Machine Learning, Computer Vision projects, etc.
+- My fuel: iced matcha latte and cheese cake \:>
 
 ## Reach me
-- Email: `khoihma@gmail.com`
+- Email: `khoihoangma@gmail.com`
 - LinkedIn: [Khoi Ma](https://www.linkedin.com/in/khoima/)
 
 ## Fun fact
