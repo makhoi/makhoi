@@ -28,7 +28,7 @@
 ## Fun fact
 - Python is my favorite language, at least for now \:3
 - Dark theme everything.
-- I love classical music, especially romantic era and the sound of violin.
+- I love classical music, especially those from romantic era. I specifically into the sound of violin and piano.
 
 <div>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" title="Python" width="100" />
