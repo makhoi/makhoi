@@ -28,7 +28,7 @@
 ## Fun fact
 - Python is my favorite language, at least for now \:3
 - Dark theme everything.
-- I play violin or hanging out with friends in my free time.
+- I love classical music, especially romantic era and the sound of violin.
 
 <div>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" title="Python" width="100" />
